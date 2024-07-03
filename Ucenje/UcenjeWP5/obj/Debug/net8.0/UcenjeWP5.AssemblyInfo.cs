@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UcenjeWP5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b31c32d510dce55963c8e1d06f07774abfc576")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39470084dae2abe50edccddf86b7bbb23e55920a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UcenjeWP5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UcenjeWP5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

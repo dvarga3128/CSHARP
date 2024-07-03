@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\bin\Debug\net8.0\UcenjeWP5.exe
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\bin\Debug\net8.0\UcenjeWP5.deps.json
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\bin\Debug\net8.0\UcenjeWP5.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\bin\Debug\net8.0\UcenjeWP5.dll
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\bin\Debug\net8.0\UcenjeWP5.pdb
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.sourcelink.json
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.dll
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\refint\UcenjeWP5.dll
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.pdb
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\UcenjeWP5.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\CSHARP\Ucenje\UcenjeWP5\obj\Debug\net8.0\ref\UcenjeWP5.dll
